@@ -9,7 +9,7 @@ error_reporting(1);
 <script language="JavaScript1.1">
 		<!--
 
-		/*
+		/* This is a git project
 		JavaScript Image slideshow:
 		By JavaScript Kit (www.javascriptkit.com)
 		Over 200+ free JavaScript here!
